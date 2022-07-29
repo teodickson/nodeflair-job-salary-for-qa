@@ -1,0 +1,1 @@
+# nodeflair-job-salary-for-qa
