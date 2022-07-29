@@ -5,7 +5,7 @@ from total_page_num import Page
 
 the_page = Page()
 pages = the_page.get_page_num()
-base_art_location_url = "https://nodeflair.com/api/v2/salaries"
+base_salary_url = "https://nodeflair.com/api/v2/salaries"
 api_url_telegram = "https://api.telegram.org/bot2066670954:AAFo3w3TzPKg1y6rGrlhIOEkeuK55VAFGJE/sendMessage?chat_id=@__groupid__&text="
 group_id = "demo_telegram_cowims"
 
